@@ -1,5 +1,10 @@
-# PokemonGo-Account-Creator
+# [DEAD] PokemonGo-Account-Creator
 Create a list of Pokémon Go accounts
+
+# Notice
+## DUE TO NIANTIC IMPLEMENTING RECAPTCHA IN THE SIGN-UP PROCESS, THIS SCRIPT IS NOT WORKING ANYMORE
+
+**Unfortunately, we cannot find a way to bypass the captcha. We are very sorry, and we hope you enjoyed the script while it worked. Thank you for all the support.**
 
 ### Please check https://github.com/skvvv/pikapy which is way better than this by now 😄
 
@@ -20,3 +25,7 @@ Create a list of Pokémon Go accounts
 - Each account need to validate the TOS and verify their email, all mails go to the same Gmail address.
 - `tos-validator.py` loop on the same `accounts.txt` file to validate the TOS.
 - The `email-validator.js` script click on each validation link and delete the mail.
+
+## What are the other files?
+I wanted to improve the scripts but The Pokémon Company added a Captcha to the
+Pokémon Trainer Club signup page.
