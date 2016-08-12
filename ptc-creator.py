@@ -4,10 +4,7 @@
 """ptc-creator.py - Create multiple PTC accounts using file."""
 
 from pikapy import *
-import pprint
-import time
-import threading
-import sys, getopt
+import sys
 
 def create_ptc_account(username, password, email):
   account_info = random_account(username, password, email)
