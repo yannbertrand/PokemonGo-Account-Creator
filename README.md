@@ -1,10 +1,5 @@
-# [DEAD] PokemonGo-Account-Creator
+# PokemonGo-Account-Creator
 Create a list of Pokémon Go accounts
-
-# Notice
-## DUE TO NIANTIC IMPLEMENTING RECAPTCHA IN THE SIGN-UP PROCESS, THIS SCRIPT IS NOT WORKING ANYMORE
-
-**Unfortunately, we cannot find a way to bypass the captcha. We are very sorry, and we hope you enjoyed the script while it worked. Thank you for all the support.**
 
 ### Please check https://github.com/skvvv/pikapy which is way better than this by now 😄
 
